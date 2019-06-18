@@ -1,0 +1,31 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "软件测试课程资料",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/testing.git"
+  },
+  "keywords": [
+    "testing",
+    "GitBook",
+    "course"
+  ],
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/testing/issues"
+  },
+  "homepage": "https://github.com/wangding/testing#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
