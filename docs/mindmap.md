@@ -4,8 +4,11 @@
 
 - [百度百科的脑图词条](https://baike.baidu.com/item/思维导图/563801?fr=aladdin)
 - [常用脑图制作工具](http://www.woshipm.com/pd/129895.html?_t=t)
+- [怎样使用思维导图](https://www.zhihu.com/question/19651621)
 - [百度脑图课程大纲][百度脑图入门课程大纲]
 - [百度脑图入门视频课程](https://ke.qq.com/course/231603)
+- [在线思维导图进阶视频课程](https://ke.qq.com/course/232900)
+- [思维导图实战视频课程](https://edu.51cto.com/course/19391.html)
 
 ## 创建脑图
 
@@ -15,6 +18,7 @@
 - 浏览并探索百度脑图编辑界面
 - 用百度脑图创建个人发展规划的脑图
 - 导入百度脑图入门课程大纲，在百度网盘下载 [naotu-baidu.km](https://pan.baidu.com/s/1ge4o0TX)
+- 在脑图文件管理界面复制上面导入的百度脑图入门课程大纲
 
 参考：
 - [个人发展规划](http://processon.com/view/584eb7c7e4b031ce5459e95c)
@@ -51,15 +55,15 @@
 - 创建文件夹
 - 把脑图文件移动到上面创建的文件夹中
 - 用三种方式重命名自己的脑图
-- 删除脑图，并且恢复此脑图
-- 导出百度脑图
+- 删除脑图，并且从回收站恢复此脑图
 
 ## 特色功能
 
 要求：
 - 练习拆图
 - 练习思维导图之间节点复制
-- 将百度脑图导出成 MarkDown 格式
+- 将百度脑图导出成 MarkDown 格式，在 word 中查看 MarkDown 格式的脑图内容
+- 将百度脑图导出成 XMind 格式，在 XMind 软件中打开导出的思维导图
 - 浏览 GitHub [KityMinder 开源项目](https://github.com/fex-team/kityminder)
 - 分享自己创作的脑图
 
