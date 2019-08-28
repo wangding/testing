@@ -15,8 +15,10 @@
 ## 课程视频
 
 - [百度脑图入门](https://ke.qq.com/course/231603)
-- [软件测试基础]()
-- [项目管理实战]()
+- [在线思维导图进阶](https://ke.qq.com/course/232900)
+- [思维导图实战](https://edu.51cto.com/course/19391.html)
+- [软件测试基础](https://edu.51cto.com/course/1026.html)
+- [项目管理实战](https://edu.51cto.com/course/1055.html)
 - [产品设计简介](https://ke.qq.com/course/234708)
 - [界面原型设计](https://ke.qq.com/course/234713)
 - [Selenium IDE Web 自动化测试（上篇）](https://ke.qq.com/course/232231)
