@@ -17,7 +17,7 @@
 - 添加必要的注释
 
 示例参考：
-- [hello-world](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/hello-world.side)
+- [hello-world](https://github.com/wangding/selenium-ide-demo/blob/master/test/hello-world.side)
 
 ## 百度搜索
 
@@ -32,7 +32,7 @@
 - 添加必要的注释
 
 示例参考：
-- [baidu-search](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/baidu-search.side)
+- [baidu-search](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search.side)
 
 ## hosted redmine 网站
 
@@ -49,4 +49,4 @@
 - 添加必要的注释
 
 示例参考：
-- [hosted-redmine](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/hosted-redmine.side)
+- [hosted-redmine](https://github.com/wangding/selenium-ide-demo/blob/master/test/hosted-redmine.side)
