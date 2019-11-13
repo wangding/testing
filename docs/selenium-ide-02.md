@@ -23,21 +23,21 @@
 - 添加必要的注释
 
 示例参考：
-- [calculator](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/calculator.side)
+- [calculator](https://github.com/wangding/selenium-ide-demo/blob/master/test/calculator.side)
 
 ## 获取百度首页信息
 
 要求：
 - 被测网站：https://www.baidu.com
-- 制作自动化测试脚本，获取百度首页信息，并打印
-- 打开百度首页，并验证
-- 获取首页 Title 信息，并打印
-- 获取首页文字信息，并打印
+- 制作自动化测试脚本
+- 打开百度首页，验证 title 信息
+- 获取首页 Title 信息，保存为变量，echo 命令打印该变量
+- 获取首页文字信息，保存为变量，echo 命令打印该变量
 - 运行自动化测试脚本
 - 添加必要的注释
 
 示例参考：
-- [baidu-store](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/baidu-store.side)
+- [baidu-store](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-store.side)
 
 ## 学习时长统计
 
@@ -52,7 +52,7 @@
 - 添加必要的注释
 
 示例参考：
-- [51cto-study-len](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/51cto-study-len.side)
+- [51cto-study-len](https://github.com/wangding/selenium-ide-demo/blob/master/test/51cto-study-len.side)
 
 ## 百度搜索变量
 
@@ -66,7 +66,7 @@
 - 添加必要的注释
 
 示例参考：
-- [baidu-search-var](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/baidu-search-var.side)
+- [baidu-search-var](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search-var.side)
 
 ## 定位器
 
@@ -86,7 +86,7 @@
 - 添加必要的注释
 
 示例参考：
-- [locator](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/locator.side)
+- [locator](https://github.com/wangding/selenium-ide-demo/blob/master/test/locator.side)
 
 ## 站长工具网站
 
@@ -99,4 +99,4 @@
 - 添加必要的注释
 
 示例参考：
-- [chinaz](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/tools.side)
+- [chinaz](https://github.com/wangding/selenium-ide-demo/blob/master/test/tools.side)
