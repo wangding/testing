@@ -17,7 +17,7 @@
 - 添加必要的注释
 
 示例参考：
-- [mobile](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/mobile.side)
+- [mobile](https://github.com/wangding/selenium-ide-demo/blob/master/test/mobile.side)
 
 ## 弹窗
 
@@ -31,7 +31,7 @@
 - 添加必要的注释
 
 示例参考：
-- [pop-window](https://github.com/wangding/selenium-ide-demo/blob/3.9-demo/test/pop-window.side)
+- [pop-window](https://github.com/wangding/selenium-ide-demo/blob/master/test/pop-window.side)
 
 ## 时间校准网
 
