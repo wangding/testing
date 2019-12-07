@@ -24,6 +24,9 @@
 - [Selenium IDE Web 自动化测试（上篇）](https://ke.qq.com/course/232231)
 - [Selenium IDE Web 自动化测试（中篇）](https://ke.qq.com/course/232657)
 - [Selenium IDE Web 自动化测试（下篇）](https://ke.qq.com/course/232711)
+- [Git 入门](https://ke.qq.com/course/225248)
+- [MarkDown 入门](https://ke.qq.com/course/225259)
+- [Git 进阶](https://ke.qq.com/course/226116)
 
 ## 通关任务
 
