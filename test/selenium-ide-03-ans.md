@@ -1,123 +1,51 @@
-# Selenium IDE WEB 自动化（下）测试测验题和答案
+# Selenium IDE WEB 自动化测试测验题和答案 03
 
-1. 在 Selenium IDE 中添加时间等待（暂停）的命令是什么？   
+1. 在 Selenium IDE 中保存变量信息的命令是什么？
 ```
-pause
+store
 ```
-2. 三种弹窗及其函数分别是什么？   
+2. 三种弹窗及其函数分别是什么？
 ```
-Alert 警告
-Cofirmations 确认
-Prompts 提示
+警告弹窗，window.alert()
+确认弹窗，window.confirm()
+提示弹窗，window.prompt()
 ```
-3. 和弹窗相关的五条常用命令分别是什么？   
+11. 假设定义变量 age，如何在 Selenium 命令参数中使用该变量？
 ```
-assert Foo （pattern）
-如果模式不匹配弹窗的文本，抛出错误。
-assert Foo Present
-如果没有弹窗，抛出错误。
-assert Foo Not Present
-如果存在任何弹窗，抛出错误。
-assert Foo （variable）
-把弹窗中的文本储存在一个变量中。
-assert Foo Present （variable）
-把弹窗中的文本存储在一个变量中并返回真假。
+${age}
 ```
-4. 在自动化测试脚本中，confirmations 
-确认弹窗选择取消应该用什么命令？   
+12. 运行 JavaScript 代码的命令是什么？
 ```
-choose CanSel On Next Confirmation
+execute script
 ```
-5. 在自动化测试脚本中，给提示弹窗输入内容用什么命令？   
-```
-answer On Next Prompt
-```
-6. 文本模式匹配的是命令的什么参数？   
-```
-Pattern
-```
-7. 在自动化测试脚本中，文本模式有哪三种？   
-```
-Globbing
-Regular Expression 正则表达式
-exact 准确
-```
-8. 在正则表达式中，‘[]’ 匹配什么内容？   
-```
-字符类，出现在方程括号中的任意单个字符。
-```
-9. 在正则表达式中，‘{}’ 匹配什么内容？   
-```
-数量，{1，n} 1 至 n 前面的字符（或者组）。
-```
-10. 在正则表达式中，‘+’ 匹配什么内容？   
-```
-数量，1 个或多个前面的字符（或者组）。
-```
-11. 常用的带 script 参数的命令有哪些 ？   
-```
-storeEval、waitFroEval、storedVars。
-```
-12. 运行 JavaScript 代码的命令是什么？   
-```
-runscript
-```
-13. JavaScript 参数隐式的使用语法是怎样的？   
-```
-JavaScript{  }
-```
-14. 在使用隐式 JavaScript 参数是应该注意什么？   
-```
-替代的参数是符合的。
-```
-15. 流程控制的三种情况分别是什么？   
+15. 三种控制分别是什么？
 ```
 顺序、分支、循环。
 ```
-16. 自动化测试脚本中，实现流程控制的三种方法是什么？   
+17. 在分支流程中经常用到的命令有哪些？
 ```
-Wed Driver 开发
-Store Eval 前端
-流程控制扩展
+if、else、else if、end
 ```
-17. 在分支流程中经常用到的命令有哪些？   
+18. 在循环流程中经常用到的命令有哪些？
 ```
-go to if、label、go to label。
+foreach、end
+times、end
+do、repeat if
+while、end
 ```
-18. 在循环六成中经常用到的命令有哪些？   
+19. 不同循环命令的用法区别是什么？
 ```
-while、endwhile。
+foreach 通常用来操作数组，在数组中循环遍历
+times 通常用来执行指定次数的循环操作
+do, repeat if 不论循环条件是否满足，至少会执行一次循环操作
+while, end 只有条件满足的情况下才会执行循环操作，有可能会执行零次循环操作
 ```
-19. 数据驱动测试中，三种数据文件类型时什么？   
-```
-JS、CSV、XML。
-```
-20. DDT 是什么？   
+20. DDT 是什么？
 ```
 Data Driven Testing 数据驱动测试。
 ```
-21. 若用 JS 类型数据文件做数据驱动测试，有哪些常用命令？   
+21. DDT 自动化测试脚本程序通常包括哪两大部分？
 ```
-store
-while
-storeEval
-store Eval
-endWhile
-```
-22. 若用 CSV 类型数据文件做数据驱动测试，有哪些常用命令？   
-```
-read csv
-while
-store cell value
-store location
-go to if
-storeEval
-end while
-```
-23. 若用 XML 类型数据文件做数据驱动测试，有哪些常用命令？   
-```
-load Test Date
-while
-next Test Data
-end while
+准备测试数据
+实现循环流程，在循环体中取出测试数据，并操作被测程序，进行验证
 ```
