@@ -1,6 +1,6 @@
 # 软件测试
 
-本电子书含软件测试课程的全部教学资料，包括：课程大纲、学习交流 QQ 群、课程视频、通关任务以及示例代码。
+本网站含软件测试课程的全部教学资料，包括：课程大纲、学习交流群、课程视频、电子书、通关任务以及示例代码。
 
 ## 课程大纲
 
@@ -12,11 +12,15 @@
 
 ![QQ 群二维码，王顶，408542507@qq.com](https://cdn.jsdelivr.net/gh/wangding/sample@master/images/student-group.png)
 
+## 电子书
+
+下载链接：https://pan.baidu.com/s/1FO1Z1tqMz6i74elhDnqIyA
+提取码：jo9d
+
 ## 课程视频
 
-- [百度脑图入门](https://ke.qq.com/course/231603)
-- [在线思维导图进阶](https://ke.qq.com/course/232900)
-- [思维导图实战](https://edu.51cto.com/course/19391.html)
+- [百度脑图入门](https://www.bilibili.com/video/BV1R4411G7hb)
+- [思维导图实战](https://www.bilibili.com/video/BV1rE411f7SY)
 - [软件测试基础](https://edu.51cto.com/course/1026.html)
 - [项目管理实战](https://edu.51cto.com/course/1055.html)
 - [产品设计简介](https://ke.qq.com/course/234708)
