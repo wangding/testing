@@ -13,3 +13,7 @@
 - [第十一章：Git 入门](docs/git-start.md)
 - [第十二章：MarkDown 入门](docs/markdown.md)
 - [第十二章：Git 进阶](docs/git-advanced.md)
+
+## 附录
+
+- [课程视频](docs/video.md)

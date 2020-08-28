@@ -19,18 +19,7 @@
 
 ## 课程视频
 
-- [百度脑图入门](https://www.bilibili.com/video/BV1R4411G7hb)
-- [思维导图实战](https://www.bilibili.com/video/BV1rE411f7SY)
-- [软件测试基础](https://edu.51cto.com/course/1026.html)
-- [项目管理实战](https://edu.51cto.com/course/1055.html)
-- [产品设计简介](https://ke.qq.com/course/234708)
-- [界面原型设计](https://ke.qq.com/course/234713)
-- [Selenium IDE Web 自动化测试（上篇）](https://ke.qq.com/course/232231)
-- [Selenium IDE Web 自动化测试（中篇）](https://ke.qq.com/course/232657)
-- [Selenium IDE Web 自动化测试（下篇）](https://ke.qq.com/course/232711)
-- [Git 入门](https://ke.qq.com/course/225248)
-- [MarkDown 入门](https://ke.qq.com/course/225259)
-- [Git 进阶](https://ke.qq.com/course/226116)
+每个视频其内容相对独立，时长较短，因此整个课程的视频数量比较多。把视频链接和课程大纲整合在一起，形成整门课程的[视频清单](./docs/video.md)方便大家按需观看。
 
 ## 通关任务
 
