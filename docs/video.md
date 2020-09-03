@@ -22,7 +22,18 @@
 
 ## 项目管理实战
 
-## 产品设计简介
+- [点亮 redmine 头像](https://www.bilibili.com/video/BV1gJ411A7zw)
+
+## 产品设计
+
+- [产品设计简介](https://www.bilibili.com/video/BV1oA411E7Xb?p=1)
+- [课程体系](https://www.bilibili.com/video/BV1oA411E7Xb?p=2)
+- [产品设计三要素](https://www.bilibili.com/video/BV1oA411E7Xb?p=3)
+- [何为界面](https://www.bilibili.com/video/BV1Lf4y1D7gp?p=1)
+- [界面设计方法](https://www.bilibili.com/video/BV1Lf4y1D7gp?p=2)
+- [GUI 小部件](https://www.bilibili.com/video/BV1Lf4y1D7gp?p=3)
+- [界面原型设计工具](https://www.bilibili.com/video/BV1Lf4y1D7gp?p=4)
+- [需求测试](https://www.bilibili.com/video/BV1tA411n7mj?p=4)
 
 ## 手工黑盒测试
 
@@ -43,6 +54,10 @@
 - [Selenium 简介](https://www.bilibili.com/video/BV1fJ411w7mk?p=4)
 - [环境准备](https://www.bilibili.com/video/BV1fJ411w7mk?p=5)
 - [功能界面](https://www.bilibili.com/video/BV1fJ411w7mk?p=6)
+- [制作测试案例](https://www.bilibili.com/video/BV1fJ411w7mk?p=7)
+- [百度搜索案例](https://www.bilibili.com/video/BV1fJ411w7mk?p=8)
+- [redmine 案例](https://www.bilibili.com/video/BV1fJ411w7mk?p=9)
+- [运行测试案例](https://www.bilibili.com/video/BV1fJ411w7mk?p=10)
 
 ## Selenium IDE Web 自动化测试（中）
 
