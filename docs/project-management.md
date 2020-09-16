@@ -26,7 +26,17 @@
 
 ## 本地安装 redmine
 
-- 下载 bitnami 的 redmine 安装包
-- 在自己电脑上完成 redmine 的安装
+- 下载 [VMware workstation](https://pc.qq.com/detail/0/detail_21600.html) 安装包（选择**普通下载**）
+- 运行上一步下载的安装包，完成 VMware workstation 的安装
+- 百度搜索 vmware workstation 的密钥
+- win10 任务栏点右键，打开任务管理器窗口，确保 win10 的虚拟化已经启用，参考下图
+![win10 任务管理器](https://cdn.jsdelivr.net/gh/wangding/testing@master/docs/img/task-mag.png)
+- 如果 win10 虚拟化没有启用，重启电脑（长按 F2 或 F10）进入 BIOS 界面，设置 BIOS 开启虚拟化，参考[这个文章](http://www.jb51.net/diannaojichu/304437.html)
+- 打开 bitnami 的 redmine 虚拟机[下载页面](https://bitnami.com/stack/redmine/virtual-machine)
+- 点击 `Download .OVA format` 下载按钮
+- 用 vmware 虚拟机软件，打开上一步下载的 redmine ova 文件
+- 上述操作参考[教学视频](https://www.bilibili.com/video/bv1iy4y1y7hm)（前 8 分钟的内容）
+- 启动 redmine 虚拟机，虚拟机启动之后，等待几分钟
+- 用浏览器访问 vmware 窗口中提示的网址，输入用户名 admin，密码，登录 redmine
 - 在本机的 redmine 上为自己的同学或者同事创建至少六个账户
 - 在本机的 redmine 上创建一个 hello 项目，把上一步创建的六个账户加入到项目组中，并分配三种角色，产品工程师、开发工程师和测试工程师
