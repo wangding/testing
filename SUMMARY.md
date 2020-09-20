@@ -17,3 +17,4 @@
 ## 附录
 
 - [课程视频](docs/video.md)
+- [课堂测验](docs/test.md)
