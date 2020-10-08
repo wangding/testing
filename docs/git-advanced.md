@@ -63,6 +63,6 @@
 
 
 <!-- 本文档中的链接 -->
-[wikipedia_git]: https://en.wikipedia.org/wiki/Git
+[wikipedia_git]: https://encyclopedia.thefreedictionary.com/git
 [baidu_git]: http://baike.baidu.com/link?url=ClhYrdzyijH-oRIzpEzVtRh2ThcXXt0TMGV3gXyvZB_U8mQPG1776VEKgIe0McrRB0_HQLqOvLsRthqHiLYfjK
 [Git 命令列表]: https://github.com/ruanyf/articles/blob/ed02bdef4a2b61d6a1fbdf56e3fbcffcbac5e68a/dev/git/commands.md

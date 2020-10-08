@@ -7,7 +7,7 @@
 ## 浏览参考资料
 
 要求：
-- 阅读[维基百科的 GitHub 词条](https://en.wikipedia.org/wiki/GitHub)；
+- 阅读[维基百科的 GitHub 词条](https://encyclopedia2.thefreedictionary.com/github)；
 - 阅读[百度百科的 GitHub 词条](http://baike.baidu.com/link?url=C0P6zQ2i5GLqeW37GmJy4pnenkOULvsqYdSiNXzpnu0bxP98TAAnLa-lqU2Gpgtsv_L_a2QmrrHLmiVclxNaDq)；
 - 浏览 [GitHub 年度报告](https://octoverse.github.com/)；
 

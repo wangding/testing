@@ -62,28 +62,28 @@
 ## 练习 MarkDown 语法（三）
 
 要求：
-- 新建 demo3.md 文件  
+- 新建 demo3.md 文件
 - 在 demo3.md 文件中把课程视频中讲到**表格**、**水平分隔线**、**HTML语法**和**GFM** 这些 MarkDown 语法练习一下；
-- MarkDown 实战三  
-  - 表格实战  
-    - 创建 JavaScript.md  
-    - 内容是 Selenium IDEDoc 仓库的 [JavaScript.md]  
-- 将本次任务创建的所有文件 push 推到自己的 Github MarkDown 远程仓库  
-- 在 Github 网站上查看上传的文件，检查样式是否正确，如果不正确请在本地修改，重新上传 
+- MarkDown 实战三
+  - 表格实战
+    - 创建 JavaScript.md
+    - 内容是 Selenium IDEDoc 仓库的 [JavaScript.md]
+- 将本次任务创建的所有文件 push 推到自己的 Github MarkDown 远程仓库
+- 在 Github 网站上查看上传的文件，检查样式是否正确，如果不正确请在本地修改，重新上传
 
 ## 开始写 MarkDown 文档
 
 要求：
-- 完成[在线通关任务]；  
-- 打通 [how-to-markdown] 12 关；   
-- 根据自己的实际需要，自由选择下面一个或多个任务；  
-- 在 Github 上创建 log 仓库，用 MarkDown 记录自己每天的工作和学习经历；  
+- 完成[在线通关任务]；
+- 打通 [how-to-markdown] 12 关；
+- 根据自己的实际需要，自由选择下面一个或多个任务；
+- 在 Github 上创建 log 仓库，用 MarkDown 记录自己每天的工作和学习经历；
 - 在 Github 上创建 study 仓库，用 MarkDown 记录自己平时学习中收藏的学习资料；
-- 其他用途，请自由发挥自己的想象力和创造力；  
+- 其他用途，请自由发挥自己的想象力和创造力；
 
 
 <!-- 下面是文中的链接 -->
-[维基百科的 MarkDown 词条]: https://en.wikipedia.org/wiki/Markdown
+[维基百科的 MarkDown 词条]: https://encyclopedia.thefreedictionary.com/markdown
 [百度百科的 MarkDown 词条]: http://baike.baidu.com/link?url=TEREhJsIPUnfMdpMVsSJv0RVWPsHxUqmv_gF8zn9lkM6zaRmgGIb7PE0SbXX1F96oRGJ54ykjIqcHkfUUlf59DAnbFiwaFg_YCwKyBLRBZ_
 [课程资料页面]: README.md
 [Github 2016 年度报告]: https://octoverse.github.com/
