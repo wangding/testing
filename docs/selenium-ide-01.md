@@ -15,6 +15,10 @@
 - 打印变量 msg，变量 msg 中保存字符串 Hello World！
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`hello-world.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：hello-world side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [hello-world](https://github.com/wangding/selenium-ide-demo/blob/master/test/hello-world.side)
@@ -30,6 +34,10 @@
 - 验证搜索结果
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`baidu-search.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：baidu-search side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [baidu-search](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search.side)
@@ -47,6 +55,10 @@
 - 测试退出登录功能
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`hosted-redmine.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：hosted-redmine side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [hosted-redmine](https://github.com/wangding/selenium-ide-demo/blob/master/test/hosted-redmine.side)

@@ -15,6 +15,10 @@
 - 手机号码归属地[测试案例设计](https://processon.com/view/581805e0e4b09047a82bd47c)
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`mobile.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：mobile side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [mobile](https://github.com/wangding/selenium-ide-demo/blob/master/test/mobile.side)
@@ -30,6 +34,10 @@
 - 测试浏览器弹窗功能，并验证结果
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`pop-window.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：pop-window side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [pop-window](https://github.com/wangding/selenium-ide-demo/blob/master/test/pop-window.side)
@@ -43,6 +51,10 @@
 - alert 弹框显示求和结果
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`sum.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：sum side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [sum](https://github.com/wangding/selenium-ide-demo/blob/master/test/sum.side)
@@ -56,6 +68,10 @@
 - 在脚本中定义变量 n = 0，从 0 到 9 循环打印 n
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`flow.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：flow side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [flow](https://github.com/wangding/selenium-ide-demo/blob/master/test/flow.side)
@@ -69,6 +85,10 @@
 - n = 5，打印 5! = 120
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`factorial.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：factorial side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [factorial](https://github.com/wangding/selenium-ide-demo/blob/master/test/factorial.side)
@@ -117,6 +137,10 @@ user_id-12111398.html
 - 通过循环流程控制实现自动化测试脚本
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`study-len-ddt.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：study-len-ddt side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [study-len-ddt](https://github.com/wangding/selenium-ide-demo/blob/master/test/study-len-ddt.side)
@@ -141,6 +165,10 @@ Selenium IDE WEB 自动化测试入门 51CTO
 - 将搜索内容及搜索结果的数量信息用 echo 打印出来，格式为：| key word | number |
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`baidu-ddt.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：baidu-ddt side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [baidu-ddt](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-ddt.side)

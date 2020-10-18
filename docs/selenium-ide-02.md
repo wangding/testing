@@ -21,6 +21,10 @@
 - 测试除法功能
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`calculator.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：calculator side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [calculator](https://github.com/wangding/selenium-ide-demo/blob/master/test/calculator.side)
@@ -35,6 +39,10 @@
 - 获取首页文字信息，保存为变量，echo 命令打印该变量
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`baidu-store.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：baidu-store side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [baidu-store](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-store.side)
@@ -50,6 +58,10 @@
 - 计算所有学生平均学习时长，并打印
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`51cto-study-len.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：51cto-study-len side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [51cto-study-len](https://github.com/wangding/selenium-ide-demo/blob/master/test/51cto-study-len.side)
@@ -64,6 +76,10 @@
 - 点击“百度一下”搜索按钮
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`baidu-search-var.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：baidu-search-var side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [baidu-search-var](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search-var.side)
@@ -84,6 +100,10 @@
 - 使用 XPath 定位器，定位密码字段，在文本框中输入：123
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`locator.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：locator side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [locator](https://github.com/wangding/selenium-ide-demo/blob/master/test/locator.side)
@@ -97,6 +117,10 @@
 - 验证每个工具页面可以正常打开
 - 运行自动化测试脚本
 - 添加必要的注释
+- 把自动化脚本文件保存为：`tools.side`
+- 在课程 redmine 网站上，自己所属的团队项目下，提交脚本文件
+- 问题的标题是：tools side
+- 问题的附件是上面保存的脚本
 
 示例参考：
 - [chinaz](https://github.com/wangding/selenium-ide-demo/blob/master/test/tools.side)
