@@ -32,7 +32,7 @@ module.exports = function (grunt) {
     },
     replace: {
       html: {
-        src: ['_book/*.html', '_book/advanced/*.html'],
+        src: ['_book/*.html', '_book/docs/*.html'],
         overwrite: true,
         replacements: [{
           from: 'href="../gitbook',
@@ -52,6 +52,12 @@ module.exports = function (grunt) {
         }, {
           from: 'src="gitbook',
           to: 'src="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/gitbook'
+        }, {
+          from: 'src="img',
+          to: 'src="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/docs/img'
+        }, {
+          from: 'href="img',
+          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/docs/img'
         }]
       }
     },

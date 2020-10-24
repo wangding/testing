@@ -44,7 +44,9 @@
 - 运行上一步下载的安装包，完成 VMware workstation 的安装
 - 百度搜索 vmware workstation 的密钥
 - win10 任务栏点右键，打开任务管理器窗口，确保 win10 的虚拟化已经启用，参考下图
-![win10 任务管理器](https://cdn.jsdelivr.net/gh/wangding/testing@master/docs/img/task-mag.png)
+
+  ![win10 任务管理器,王顶，408542507@qq.com](./img/task-mag.png)
+
 - 如果 win10 虚拟化没有启用，重启电脑（长按 F2 或 F10）进入 BIOS 界面，设置 BIOS 开启虚拟化，参考[这个文章](http://www.jb51.net/diannaojichu/304437.html)
 - 打开 bitnami 的 redmine 虚拟机[下载页面](https://bitnami.com/stack/redmine/virtual-machine)
 - 点击 `Download .OVA format` 下载按钮
@@ -52,7 +54,9 @@
 - 上述操作参考[教学视频](https://www.bilibili.com/video/bv1iy4y1y7hm)（**只看前 8 分钟的内容**）
 - 启动 redmine 虚拟机，虚拟机启动之后，**等待几分钟**，会出现如下画面
 - 注意，画面中的 IP 地址和密码信息不会相同
-![bitnami-redmine](https://cdn.jsdelivr.net/gh/wangding/testing@master/docs/img/bitnami-redmine.png)
+
+  ![bitnami-redmine，王顶，408542507@qq.com](./img/bitnami-redmine.png)
+
 - 用浏览器访问 vmware 窗口中提示的网址（上图，黄色文字第一行），输入用户名 user，密码（上图，黄色文字第二行），登录 redmine
 - 在本机的 redmine 网站上，为自己团队创建账户
 - 在本机的 redmine 网站上，创建自己团队名称的项目
