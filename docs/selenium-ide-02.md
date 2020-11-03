@@ -3,8 +3,8 @@
 ## 阅读参考资料
 
 - [课程大纲](http://naotu.baidu.com/file/2808e24ce835c34ccce45489b75ce486?token=787ca33c65defb65)
-- [Selenium IDE 命令](https://selenium.wangding.in/commands.html)
-- [Selenium IDE 参数](https://selenium.wangding.in/arguments.html)
+- [Selenium IDE 命令](https://selenium.wangding.co/commands.html)
+- [Selenium IDE 参数](https://selenium.wangding.co/arguments.html)
 - [CSS diner](http://flukeout.github.io/)
 - [XPath diner](http://www.topswagcode.com/xpath/)
 - [W3CSchool](http://www.w3school.com.cn/)
@@ -87,7 +87,7 @@
 ## 定位器
 
 要求：
-- 被测网站：https://sample.wangding.in/selenium/locator.html
+- 被测网站：https://sample.wangding.co/selenium/locator.html
 - 制作自动化测试脚本，测试页面
 - 使用 ID 定位器，定位账户字段，在文本框中输入：wangding
 - 使用 name 定位器，定位账户字段，在文本框中输入：wangchenxin

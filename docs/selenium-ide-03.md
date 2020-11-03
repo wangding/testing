@@ -3,7 +3,7 @@
 ## 阅读参考资料
 
 - [课程大纲](http://naotu.baidu.com/file/3eac522d757bf8b4822b37280d5c4ff7?token=2ea0dfb5502d6a4e)
-- [Selenium IDE 控制流](https://selenium.wangding.in/control-flow.html)
+- [Selenium IDE 控制流](https://selenium.wangding.co/control-flow.html)
 - [JavaScript 标准参考教程](http://JavaScript.ruanyifeng.com)
 - [freecodecamp](https://freecodecamp.cn/)
 
@@ -26,7 +26,7 @@
 ## 弹窗
 
 要求：
-- 被测网站：https://sample.wangding.in/selenium/alert.html
+- 被测网站：https://sample.wangding.co/selenium/alert.html
 - 制作自动化测试脚本，测试网站的弹窗功能
 - 测试 alert 弹框功能，并验证结果
 - 测试 confirm 弹框功能，并验证结果

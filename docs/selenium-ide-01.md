@@ -4,7 +4,7 @@
 
 - [课程大纲](http://naotu.baidu.com/file/bef0e7fcb4f603e4791304d77b15c421?token=59d1386c1428551f)
 - [Selenium IDE 官网](https://www.seleniumhq.org/selenium-ide/)
-- [Selenium IDE 快速上手](https://selenium.wangding.in/getting-started.html)
+- [Selenium IDE 快速上手](https://selenium.wangding.co/getting-started.html)
 
 ## Hello World
 

@@ -4,10 +4,10 @@
 
 ### 被测程序
 
-- [法老的金字塔 v0.1](http://sample.wangding.in/testing/triangle-error1.html)  
-- [法老的金字塔 v0.2](http://sample.wangding.in/testing/triangle-error2.html)  
-- [法老的金字塔 v0.3](http://sample.wangding.in/testing/triangle-error3.html)  
-- [法老的金字塔 v1.0](http://sample.wangding.in/testing/triangle.html)  
+- [法老的金字塔 v0.1](http://sample.wangding.co/testing/triangle-error1.html)  
+- [法老的金字塔 v0.2](http://sample.wangding.co/testing/triangle-error2.html)  
+- [法老的金字塔 v0.3](http://sample.wangding.co/testing/triangle-error3.html)  
+- [法老的金字塔 v1.0](http://sample.wangding.co/testing/triangle.html)  
 
 ### 测试案例设计
 
@@ -80,7 +80,7 @@
 
 ## jsNotepad 功能测试
 
-- 被测程序：[jsNotepad](https://np.wangding.in)
+- 被测程序：[jsNotepad](https://np.wangding.co)
 - 只有在 notepad PRD 文档都整理完成的情况下，才可以设计测试案例
 - 测试案例设计
 - 测试案例管理
