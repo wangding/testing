@@ -84,6 +84,11 @@
 示例参考：
 - [baidu-search-var](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search-var.side)
 
+## CSS 选择器语法
+
+要求：
+- 把 [CSS diner](http://flukeout.github.io/) 教学软件，打通关三遍
+
 ## 定位器
 
 要求：
