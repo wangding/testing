@@ -65,6 +65,12 @@
 
 ## Git 入门
 
+- [课程说明](https://www.bilibili.com/video/BV14E411k7Um?p=1)
+- [git 简介](https://www.bilibili.com/video/BV14E411k7Um?p=2)
+- [github 简介](https://www.bilibili.com/video/BV14E411k7Um?p=3)
+- [github 使用](https://www.bilibili.com/video/BV14E411k7Um?p=4)
+- [git bash 工具](https://www.bilibili.com/video/BV14E411k7Um?p=5)
+
 ## MarkDown 入门
 
 ## Git 进阶
