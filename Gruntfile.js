@@ -46,31 +46,17 @@ module.exports = function (grunt) {
         }, {
           from: '<link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">',
           to: '<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/wangding/i@master/favicon.svg">'
-        }, {
-          from: 'href="../gitbook',
-          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/gitbook'
-        }, {
-          from: 'href="../styles',
-          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/styles'
-        }, {
-          from: 'href="gitbook',
-          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/gitbook'
-        }, {
-          from: 'href="styles',
-          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/styles'
-        }, {
-          from: 'src="../gitbook',
-          to: 'src="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/gitbook'
-        }, {
-          from: 'src="gitbook',
-          to: 'src="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/gitbook'
-        }, {
-          from: 'src="img',
-          to: 'src="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/docs/img'
-        }, {
-          from: 'href="img',
-          to: 'href="https://cdn.jsdelivr.net/gh/wangding/testing@gh-pages/docs/img'
         }]
+      }
+    },
+    qiniu_qupload: {
+      default_options: {
+        options: {
+          ak: 'QINIU_AK',
+          sk: 'QINIU_SK',
+          bucket: 'gb-testing',
+          assets: [{src: '_book', prefix: ''}]
+        }
       }
     },
     copy: {
@@ -99,6 +85,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-text-replace');
   grunt.loadNpmTasks('grunt-unescape-html');
+  grunt.loadNpmTasks('@wangding/grunt-qiniu-qupload');
 
   grunt.registerTask('minify', ['unescape', 'copy:html', 'replace', 'htmlmin', 'cssmin', 'uglify', 'copy:html', 'copy:js']);
+  grunt.registerTask('upload', ['qiniu_qupload']);
 };

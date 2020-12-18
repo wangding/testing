@@ -6,6 +6,7 @@ after_script:
   - gitbook install
   - gitbook build
   - grunt minify
+  - grunt upload
   - cd ./_book
   - git init
   - git config user.name "${USER_NAME}"
