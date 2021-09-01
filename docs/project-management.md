@@ -7,7 +7,7 @@
 - redmine 项目最早的一个 bug 是什么时间提出的？谁提出的？主题是什么？这个 bug 最终是由谁修复的？什么时间修复的？
 - 1.0.0（RC）版本中总共有多少个 bug？这些 bug 分那些类？每个类别下面的 bug 有多少个？
 - redmine 用的 SCM 是什么系统？根据什么判断的？
-- 把上述题目的答案，提交到[课程 redmine 网站](http://39.104.115.100/)，自己参与的项目中
+- 把上述题目的答案，提交到[课程 redmine 网站](http://redmine.wangding.co)，自己参与的项目中
 - 问题的跟踪类型是：支持
 - 问题的主题是：redmine 官网资料收集
 - 问题的描述，参考：[redmine 官网资料收集](http://www.hostedredmine.com/issues/887915)
@@ -17,7 +17,7 @@
 - 在 [hostedredmine 网站](http://www.hostedredmine.com/)上注册账户
 - 在 [Gravatar 网站](https://cn.gravatar.com/)点亮自己的头像
 - 检查自己的 hostedredmine 账户，确保头像是点亮了
-- 把 hostedredmine 中，自己的账户链接，提交到[课程 redmine 网站](http://39.104.115.100/)，自己参与的项目中
+- 把 hostedredmine 中，自己的账户链接，提交到[课程 redmine 网站](http://redmine.wangding.co)，自己参与的项目中
 - 问题的跟踪类型是：支持
 - 问题的主题是：hostedredmine 账户链接
 - 问题的描述，参考：[hostedredmine 账户链接](http://www.hostedredmine.com/issues/887916)
@@ -26,8 +26,8 @@
 
 - 找不少于四人，不多于七人，组成项目团队
 - 给自己的项目团队命名
-- 在[课程 redmine 网站](http://39.104.115.100/)，创建项目，项目名称为团队的名称
-- 每个团队成员在[课程 redmine 网站](http://39.104.115.100/)，注册并激活账号
+- 在[课程 redmine 网站](http://redmine.wangding.co)，创建项目，项目名称为团队的名称
+- 每个团队成员在[课程 redmine 网站](http://redmine.wangding.co)，注册并激活账号
 - 将团队成员加到团队项目中
 - 团队成员中，一人为管理员角色，其余人为开发人员角色
 
@@ -105,7 +105,7 @@ sudo systemctl status ssh             // 确保 ssh 服务的状态是 active (r
 - 输入 SQL 语句，`describe users;`，显示 users 表的结构
 - 输入 SQL 语句，`select id, login, firstname, lastname from users;`，查询 users 表中的数据
 - 把上面查询语句执行的结果，截图，保存成图片
-- 将图片提交到[课程 redmine 网站](http://39.104.115.100/)，自己团队的项目中
+- 将图片提交到[课程 redmine 网站](http://redmine.wangding.co)，自己团队的项目中
 - 问题的跟踪类型是：支持
 - 问题的主题是：MySQL 操作截图
 - 问题的描述是：[MySQL 操作截图]
