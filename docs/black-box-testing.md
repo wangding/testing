@@ -80,7 +80,7 @@
 
 ## jsNotepad 功能测试
 
-- 被测程序：[jsNotepad](https://np.wangding.co)
+- 被测程序：[jsNotepad](http://np.wangding.co)
 - 只有在 notepad PRD 文档都整理完成的情况下，才可以设计测试案例
 - 测试案例设计
 - 测试案例管理
