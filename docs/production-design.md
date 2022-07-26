@@ -7,7 +7,6 @@
 - 简洁明了的优秀 UI 设计原则：[第一篇](https://segmentfault.com/a/1190000000538895)、[第二篇](https://segmentfault.com/a/1190000000573522)、[第三篇](https://segmentfault.com/a/1190000000575468)、[第四篇](https://segmentfault.com/a/1190000000576698)
 - [九张图回顾 Web 设计的 25 年历史](https://www.runoob.com/w3cnote/the-history-of-web-design-explained-in-9-gifs.html)
 - [打造出色 UI 的七个法则](http://www.lwve.com.cn/2014/12/%E6%89%93%E9%80%A0%E5%87%BA%E8%89%B2ui%E7%9A%847%E4%B8%AA%E6%B3%95%E5%88%99/)
-- [改善UI视觉体验的7个小技巧](http://www.woshipm.com/ucd/2064147.html)
 - [不规则窗体案例](http://www.fullyu.com/article/4166/windows-media-player-%E7%9A%AE%E8%86%9A/)
 - [界面视觉设计要素：字体篇](http://www.woshipm.com/ucd/1096734.html)
 - [色彩背后的心理学](http://www.woshipm.com/pd/845742.html)
@@ -56,7 +55,6 @@
 - 由每个成员负责完成若干功能点的 PRD 文档编写
 - 每个成员填写该功能点 PRD 文档编写的开始时间和结束时间
 - 将 WBS 提交到课程 redmine 网站，自己所在项目组的 wiki 中
-- 请参考 [WBS 文档](http://www.hostedredmine.com/projects/wd_template/wiki/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3)
 
 ## 编写 PRD 产品需求规格说明书
 

@@ -4,7 +4,7 @@
 
 - [课程大纲](http://naotu.baidu.com/file/bef0e7fcb4f603e4791304d77b15c421?token=59d1386c1428551f)
 - [Selenium IDE 官网](https://www.seleniumhq.org/selenium-ide/)
-- [Selenium IDE 快速上手](https://selenium.wangding.co/getting-started.html)
+- [Selenium IDE 快速上手](http://selenium.wangding.co/getting-started.html)
 
 ## Hello World
 
@@ -21,7 +21,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [hello-world](https://github.com/wangding/selenium-ide-demo/blob/master/test/hello-world.side)
+- [hello-world](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/hello-world.side)
 
 ## 百度搜索
 
@@ -40,7 +40,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [baidu-search](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search.side)
+- [baidu-search](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/baidu-search.side)
 
 ## hosted redmine 网站
 
@@ -61,4 +61,4 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [hosted-redmine](https://github.com/wangding/selenium-ide-demo/blob/master/test/hosted-redmine.side)
+- [hosted-redmine](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/hosted-redmine.side)

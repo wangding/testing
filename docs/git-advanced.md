@@ -2,14 +2,13 @@
 
 ## 观看课程视频
 
-- [Git 进阶](https://ke.qq.com/course/226116)
+- [Git 进阶](https://www.bilibili.com/video/BV1vy4y1s7k6/)
 
 ## 了解 Git
 
 要求：
 - 阅读[维基百科的 Git 词条][wikipedia_git]；  
 - 阅读[百度百科的 Git 词条][baidu_git]；  
-- 浏览[课程资料页面](README.md#第三季-Git-进阶)；  
 
 ## Git GUI
 
@@ -65,4 +64,4 @@
 <!-- 本文档中的链接 -->
 [wikipedia_git]: https://encyclopedia.thefreedictionary.com/git
 [baidu_git]: http://baike.baidu.com/link?url=ClhYrdzyijH-oRIzpEzVtRh2ThcXXt0TMGV3gXyvZB_U8mQPG1776VEKgIe0McrRB0_HQLqOvLsRthqHiLYfjK
-[Git 命令列表]: https://github.com/ruanyf/articles/blob/ed02bdef4a2b61d6a1fbdf56e3fbcffcbac5e68a/dev/git/commands.md
+[Git 命令列表]: http://note.wangding.co/office/git.html

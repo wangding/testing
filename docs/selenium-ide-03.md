@@ -3,9 +3,9 @@
 ## 阅读参考资料
 
 - [课程大纲](http://naotu.baidu.com/file/3eac522d757bf8b4822b37280d5c4ff7?token=2ea0dfb5502d6a4e)
-- [Selenium IDE 控制流](https://selenium.wangding.co/control-flow.html)
+- [Selenium IDE 控制流](http://selenium.wangding.co/control-flow.html)
 - [JavaScript 标准参考教程](http://JavaScript.ruanyifeng.com)
-- [freecodecamp](https://freecodecamp.cn/)
+- [freecodecamp](https://chinese.freecodecamp.org/)
 
 ## 手机归属地查询
 
@@ -21,12 +21,12 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [mobile](https://github.com/wangding/selenium-ide-demo/blob/master/test/mobile.side)
+- [mobile](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/mobile.side)
 
 ## 弹窗
 
 要求：
-- 被测网站：https://sample.wangding.co/selenium/alert.html
+- 被测网站：http://sample.wangding.co/selenium/alert.html
 - 制作自动化测试脚本，测试网站的弹窗功能
 - 测试 alert 弹框功能，并验证结果
 - 测试 confirm 弹框功能，并验证结果
@@ -40,7 +40,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [pop-window](https://github.com/wangding/selenium-ide-demo/blob/master/test/pop-window.side)
+- [pop-window](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/pop-window.side)
 
 ## 两数求和
 
@@ -57,7 +57,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [sum](https://github.com/wangding/selenium-ide-demo/blob/master/test/sum.side)
+- [sum](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/sum.side)
 
 ## 流程控制
 
@@ -74,7 +74,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [flow](https://github.com/wangding/selenium-ide-demo/blob/master/test/flow.side)
+- [flow](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/flow.side)
 
 ## 计算 n!
 
@@ -91,7 +91,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [factorial](https://github.com/wangding/selenium-ide-demo/blob/master/test/factorial.side)
+- [factorial](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/factorial.side)
 
 ## 学习时长统计 DDT
 
@@ -143,7 +143,7 @@ user_id-12111398.html
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [study-len-ddt](https://github.com/wangding/selenium-ide-demo/blob/master/test/study-len-ddt.side)
+- [study-len-ddt](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/study-len-ddt.side)
 
 
 ## 百度搜索 DDT
@@ -171,4 +171,4 @@ Selenium IDE WEB 自动化测试入门 51CTO
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [baidu-ddt](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-ddt.side)
+- [baidu-ddt](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/baidu-ddt.side)

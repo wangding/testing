@@ -9,7 +9,7 @@
 
 ## 注册 GitHub 账户
 
-请注册自己的 GitHub 账户，具体要求如下：
+请注册自己的 [BitBucket](https://bitbucket.org) 账户，具体要求如下：
 - 要有自己的真实姓名；
 - 要有自己的真实头像；
 - 要有自己的职业信息；
@@ -20,7 +20,7 @@
 
 要求：
 - Follow（关注）王顶
-- Star（收藏）courses 项目
+- Star（收藏）testing 项目
 - Follow（关注）其他人（可以是王顶关注的人）
 - Star（收藏）其他项目（可以是王顶收藏的项目）
 - Watch（关注）courses 项目
@@ -34,7 +34,7 @@
 ## GitHub 仓库
 
 要求：
-- 浏览 [courses](https://github.com/wangding/courses) 仓库；
+- 浏览 [testing](https://bitbucket.org/wngding/testing) 仓库；
 - 创建 demo 仓库；
 - 为 demo 仓库启用 GitHub Pages 设置；
 - 在 demo 仓库中操作；
@@ -67,9 +67,10 @@
 ## 在线练习 Git
 
 要求：
-- 阅读 learnGitBranching 网站的[操作说明](https://github.com/pcottle/learnGitBranching/blob/master/README.md)
+- 克隆 [learnGitBranching](https://gitee.com/mirrors/learnGitBranching) 仓库
+- 阅读 README.md
 - 在线练习网址：https://learngitbranching.js.org/
-- 完成基础 4 关的在线练习；
+- 完成基础 4 关的在线练习
 
 ## 闯关练习 Git-it
 

@@ -3,8 +3,8 @@
 ## 阅读参考资料
 
 - [课程大纲](http://naotu.baidu.com/file/2808e24ce835c34ccce45489b75ce486?token=787ca33c65defb65)
-- [Selenium IDE 命令](https://selenium.wangding.co/commands.html)
-- [Selenium IDE 参数](https://selenium.wangding.co/arguments.html)
+- [Selenium IDE 命令](http://selenium.wangding.co/commands.html)
+- [Selenium IDE 参数](http://selenium.wangding.co/arguments.html)
 - [CSS diner](http://flukeout.github.io/)
 - [XPath diner](http://www.topswagcode.com/xpath/)
 - [W3CSchool](http://www.w3school.com.cn/)
@@ -27,7 +27,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [calculator](https://github.com/wangding/selenium-ide-demo/blob/master/test/calculator.side)
+- [calculator](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/calculator.side)
 
 ## 获取百度首页信息
 
@@ -45,7 +45,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [baidu-store](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-store.side)
+- [baidu-store](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/baidu-store.side)
 
 ## 学习时长统计
 
@@ -64,7 +64,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [51cto-study-len](https://github.com/wangding/selenium-ide-demo/blob/master/test/51cto-study-len.side)
+- [51cto-study-len](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/51cto-study-len.side)
 
 ## 百度搜索变量
 
@@ -82,7 +82,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [baidu-search-var](https://github.com/wangding/selenium-ide-demo/blob/master/test/baidu-search-var.side)
+- [baidu-search-var](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/baidu-search-var.side)
 
 ## CSS 选择器语法
 
@@ -92,9 +92,9 @@
 ## 定位器
 
 要求：
-- 被测网站：https://sample.wangding.co/selenium/locator.html
+- 被测网站：http://sample.wangding.co/selenium/locator.html
 - 制作自动化测试脚本，测试页面
-- 使用 ID 定位器，定位账户字段，在文本框中输入：wangding
+- 使用 ID 定位器，定位账户字段，在文本框中输入：wngding
 - 使用 name 定位器，定位账户字段，在文本框中输入：wangchenxin
 - 使用 linkText 定位器，定位 `alert 页面`链接，并触发 click 操作
 - 使用 CSS 定位器，定位账户字段，在文本框中输入：louying
@@ -111,7 +111,7 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [locator](https://github.com/wangding/selenium-ide-demo/blob/master/test/locator.side)
+- [locator](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/locator.side)
 
 ## 站长工具网站
 
@@ -128,4 +128,4 @@
 - 问题的附件是上面保存的脚本
 
 示例参考：
-- [chinaz](https://github.com/wangding/selenium-ide-demo/blob/master/test/tools.side)
+- [chinaz](https://bitbucket.org/wngding/selenium-ide-demo/src/master/test/tools.side)

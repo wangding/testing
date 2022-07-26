@@ -23,6 +23,11 @@
     "gtalk"
   ],
   "pluginsConfig": {
+    "fontSettings" : {
+      "theme": "white",
+      "family": "msyh",
+      "size" : 2
+    },
     "gtalk": {
       "clientID": "5c79e79963ceae698285",
       "clientSecret": "bce65a91cb8721270378c99265757c0bbc6cb4ce",

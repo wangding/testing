@@ -13,7 +13,7 @@
 要求：
 - 阅读[维基百科的 MarkDown 词条]
 - 阅读[百度百科的 MarkDown 词条]
-- 浏览 [Github 2016 年度报告]中前十位开源项目中的**文档型项目**并收藏
+- 浏览 [Github 2021 年度报告]中前十位开源项目中的**文档型项目**并收藏
 
 ## 练习 MarkDown 语法（一）
 
@@ -69,9 +69,7 @@
 [维基百科的 MarkDown 词条]: https://encyclopedia.thefreedictionary.com/markdown
 [百度百科的 MarkDown 词条]: http://baike.baidu.com/link?url=TEREhJsIPUnfMdpMVsSJv0RVWPsHxUqmv_gF8zn9lkM6zaRmgGIb7PE0SbXX1F96oRGJ54ykjIqcHkfUUlf59DAnbFiwaFg_YCwKyBLRBZ_
 [Github 2016 年度报告]: https://octoverse.github.com/
-[control-flow.md]: https://gitee.com/wangding/selenium-ide-doc/blob/master/3.9/control-flow.md
-[SUMMARY.md]: https://gitee.com/wangding/selenium-ide-doc/blob/master/3.9/SUMMARY.md
-[code-export.md]: https://gitee.com/wangding/selenium-ide-doc/blob/master/3.9/code-export.md
-[faq.md]: https://gitee.com/wangding/selenium-ide-doc/blob/master/3.9/faq.md
-[在线通关任务]: http://www.markdowntutorial.com/lesson/1/
-[how-to-markdown]: https://github.com/workshopper/how-to-markdown/
+[control-flow.md]: https://bitbucket.org/wngding/selenium-ide-doc/src/master/3.9/control-flow.md
+[SUMMARY.md]: https://bitbucket.org/wngding/selenium-ide-doc/src/master/3.9/SUMMARY.md
+[code-export.md]: https://bitbucket.org/wngding/selenium-ide-doc/src/master/3.9/code-export.md
+[faq.md]: https://bitbucket.org/wngding/selenium-ide-doc/src/master/3.9/faq.md

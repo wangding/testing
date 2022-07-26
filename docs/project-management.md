@@ -81,7 +81,7 @@ sudo systemctl status ssh             // 确保 ssh 服务的状态是 active (r
 
 ## XShell 连接 redmine linux 虚拟机
 
-- 下载 [XShell](https://www.netsarang.com/zh/free-for-home-school/)
+- 下载 [XShell](https://www.xshell.com/zh/free-for-home-school/)
 - 运行上一步下载的安装包，完成 XShell 的安装
 - 启动 XShell 软件，新建会话
 - 新建会话对话框中，输入会话名称，和主机 IP

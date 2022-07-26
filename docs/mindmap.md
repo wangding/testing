@@ -70,7 +70,7 @@
 - 练习思维导图之间节点复制
 - 将百度脑图导出成 MarkDown 格式，在 notepad 中查看 MarkDown 文件
 - 将百度脑图导出成 XMind 格式，在 XMind 软件中打开，导出的思维导图
-- 浏览 GitHub [KityMinder 开源项目](https://github.com/fex-team/kityminder)
+- 浏览 GitHub [KityMinder 开源项目](https://gitee.com/snow2zhou/kityminder-editor)
 
 ## 提交作业
 
