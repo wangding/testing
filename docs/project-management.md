@@ -12,16 +12,6 @@
 - 问题的主题是：redmine 官网资料收集
 - 问题的描述，参考：[redmine 官网资料收集](http://www.hostedredmine.com/issues/887915)
 
-## 点亮 redmine 头像
-
-- 在 [hostedredmine 网站](http://www.hostedredmine.com/)上注册账户
-- 在 [Gravatar 网站](https://cn.gravatar.com/)点亮自己的头像
-- 检查自己的 hostedredmine 账户，确保头像是点亮了
-- 把 hostedredmine 中，自己的账户链接，提交到[课程 redmine 网站](http://redmine.wangding.co)，自己参与的项目中
-- 问题的跟踪类型是：支持
-- 问题的主题是：hostedredmine 账户链接
-- 问题的描述，参考：[hostedredmine 账户链接](http://www.hostedredmine.com/issues/887916)
-
 ## 项目团队管理
 
 - 找不少于四人，不多于七人，组成项目团队
@@ -63,7 +53,7 @@
 - 把自己团队每个人的账户，加入到上一步创建的项目中
 - 分配角色，一个管理员，其余为开发人员
 
-## 启用虚拟机的 SSH 服务
+## 配置虚拟机的 SSH 服务允许密码登录
 
 - 上一个任务的 redmine linux 虚拟机窗口
 - 登录 redmine linux 虚拟机
@@ -72,11 +62,10 @@
 - 出现 linux 命令提示符，`bitnami@debian:~$`，执行下面的操作：
 
 ```bash
-cd /etc/ssh
-sudo rm -rf sshd_not_to_be_run
-sudo systemctl enable ssh
-sudo systemctl start ssh
-sudo systemctl status ssh             // 确保 ssh 服务的状态是 active (running)
+sudo vi /etc/ssh/sshd_config
+编辑修改：PasswordAuthentication yes
+保存退出：按 :wq
+重启系统：sudo init 6
 ```
 
 ## XShell 连接 redmine linux 虚拟机
@@ -119,3 +108,28 @@ join email_addresses
 on users.id = email_addresses.user_id;
 ```
 - 输入命令，`exit` 退出 mysql 控制台
+
+## 常见问题
+
+- 问题：bitnami redmine 虚拟机桥接网络不工作
+- 解决：把桥接网络改成 NAT
+- 操作：
+
+  - 登录 debian
+  - 查看 IP 地址，`ip addr show`
+  - 查看 windows vmnet8 虚拟网卡的 IP 地址，网络地址
+  - 修改 IP 地址设置
+
+  ```
+  sudo vi /etc/network/interfaces
+
+  # source /etc/network/interfaces.d/*
+
+  iface ens192 inet static
+      address 192.168.xxx.yyy
+       netmask 255.255.255.0
+       gateway 192.168.xxx.2
+       dns-nameservers  8.8.8.8
+  ```
+  - 关闭系统，`sudo init 0`
+  - 设置虚拟机网卡为 NAT
